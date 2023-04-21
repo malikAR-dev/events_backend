@@ -1,0 +1,53 @@
+.root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  width: 80%;
+}
+
+.formField {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.image {
+  height: 400px;
+  width: 250px;
+  margin: auto;
+  display: flex;
+}
+
+.BGImage {
+  margin: auto;
+  height: 500px;
+  width: 300px;
+  background-size: 300px 500px;
+  background-repeat: no-repeat;
+}
+
+.customMessage {
+  padding: 150px 4% 0px 4%;
+  height: 500px;
+  width: 300px;
+  text-align: center;
+}
+
+.copyLink {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.copyButton {
+  margin-top: 5px;
+  margin-left: 10px;
+}

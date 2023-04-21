@@ -1,0 +1,28 @@
+.viewImage {
+  height: 100vh;
+  width: 100vw;
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+}
+
+.viewMessage {
+  padding: 0 20px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.messageSection h2 {
+  font-size: 28px;
+}
+
+.nameSection {
+  padding-top: 40px;
+}
+
+.nameSection h1 {
+  text-align: right;
+}
